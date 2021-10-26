@@ -14,6 +14,6 @@ Menu:
 ![Alt text](/public_html/akt.png?raw=true)<br />
 
 The order form:
-![Alt text](/public_html/zamowieniea.png?raw=true)<br />
+![Alt text](/public_html/zamowniea.png?raw=true)<br />
 After ordering we get information:
 ![Alt text](/public_html/zamowienien.png?raw=true)<br />
