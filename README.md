@@ -15,5 +15,5 @@ Menu:
 
 The order form:
 ![Alt text](/public_html/zamowniea.png?raw=true)<br />
-After ordering we get information:
+After ordering we get information:<br />
 ![Alt text](/public_html/zamowienien.png?raw=true)<br />
